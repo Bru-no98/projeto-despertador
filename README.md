@@ -1,0 +1,2 @@
+Esse é um projeto pessoal que tem o intuito de colocar em prática alguns conceitos aprendidos em JavaScript, principalmente a função setInterval().
+Trata-se de um despertador, no qual o usuário pode escolher um horário e pedir para rodar um relógio que será impresso na tela. Esse relógio busca a hora atual do navegador e se atualiza por meio da função setInterval(). Ao atingir o horário que foi escolhido pelo usuário, o navegandor emite um alerta informando que o tempo foi atingido.
